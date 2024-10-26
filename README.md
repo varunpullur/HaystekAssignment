@@ -43,20 +43,6 @@ The app follows the MVVM (Model-View-ViewModel) architecture pattern and incorpo
 - Xcode 13.0+
 - Swift 5.5+
 
-## Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/swiftui-ecommerce.git
-```
-
-2. Open the project in Xcode:
-```bash
-cd swiftui-ecommerce
-open SwiftUIEcommerce.xcodeproj
-```
-4. Build and run the project in Xcode
-
 ## Key Components
 
 ### Views
